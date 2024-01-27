@@ -1,0 +1,12 @@
+env/
+
+input/*.png
+input/*.dcm
+output/*.png
+output/*.dcm
+
+
+*/__pycache__/*
+*.pyc
+
+detr/
